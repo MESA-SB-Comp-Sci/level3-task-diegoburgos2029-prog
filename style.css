@@ -4,4 +4,48 @@
     margin: 0;
 }
 
-/* write all your rules below */
+.heading_box {
+   content: none;
+   padding: 3%;
+   border: 20px solid red;
+   margin: 5%;
+   background-color: pink;
+   width: 70vw;
+   height: 1vh;
+}
+
+
+.box-one {
+   content: none;
+   padding: 10%;
+   border: 20px;
+   margin: 1%;
+   background-color: rgb(103, 237, 175);
+   width: 90vw;
+   height: 5vh;
+}
+
+
+.box-two {
+   content: none;
+   padding: 5%;
+   border: 20px solid pink;
+   margin: 5%;
+   background-color: yellow;
+   width: 60vw;
+   height: 1vh;
+   
+}
+
+.tag-1{
+    color: blue;
+}
+.tag-2{
+    color: green;
+}
+.tag-3{
+    color: red;
+}
+.tag-4{
+    color: purple;
+}
